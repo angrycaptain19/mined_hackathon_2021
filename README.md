@@ -35,3 +35,8 @@ Institute of Technology, Nirma University, Ahmedabad.
 - **Vimal Sheoran**
 
 # Code Details
+- app/ - Contains code of the backend.
+- hackathon.pptx - Presentation of the project.
+- gps.py - GPS emulation
+- rec.py - Consuming location information from GPS.
+- Android Apps - Unable to upload, Google Drive link is provided.
