@@ -39,4 +39,4 @@ Institute of Technology, Nirma University, Ahmedabad.
 - hackathon.pptx - Presentation of the project.
 - gps.py - GPS emulation
 - rec.py - Consuming location information from GPS.
-- Android Apps - Unable to upload, Google Drive link is provided.
+- Android Apps - Unable to upload, Google Drive link is provided. https://drive.google.com/drive/folders/10jXM58Jiczm1viztpWYdVTHGyg-oXUtq?usp=sharing
