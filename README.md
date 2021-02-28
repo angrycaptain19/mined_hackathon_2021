@@ -21,4 +21,17 @@ We intend to create an application which helps MSMEs to track their shipments in
 - Volley
 
 # Third Party APIs
-- Toll Information Systems, National Highway Authority of India.
+- Toll Information Systems, National Highway Authority of India. http://tis.nhai.gov.in/
+- Geohacker's Toll Plaza Dataset, https://github.com/geohacker/toll-plazas-india
+
+# Team Info
+## Institution
+Institute of Technology, Nirma University, Ahmedabad.
+## Team Members
+- **Krushit Sheth (Team Leader)**
+- **Abhi Thakkar**
+- **Jainil Patel**
+- **Parth Sinha**
+- **Vimal Sheoran**
+
+# Code Details
